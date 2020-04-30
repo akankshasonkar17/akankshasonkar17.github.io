@@ -1,3 +1,3 @@
 A single page portofolio 
 
-akankshasonkar17.github.io
+https://akankshasonkar17.github.io/
